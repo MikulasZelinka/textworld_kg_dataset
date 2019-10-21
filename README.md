@@ -7,7 +7,9 @@ Dataset proposed in the paper [Building Dynamic Knowledge Graphs from Text-based
 | 267,031 | 13,442 | 41,865 | 29.3 tokens | 3.1              | 99        | 10     | 43.1              |
 
 ## Data Format
-We have split the dataset ([`dataset.zip`](https://github.com/MikulasZelinka/textworld_kg_dataset/blob/master/dataset.zip), [download](https://github.com/MikulasZelinka/textworld_kg_dataset/raw/master/dataset.zip)) into training, validation, and test sets, each of them is in a `.json` file. In a `.json` file, each line is a `json` dump, which is a single data point.
+We have split the dataset ([`dataset.zip`](https://github.com/MikulasZelinka/textworld_kg_dataset/blob/master/dataset.zip), [download](https://github.com/MikulasZelinka/textworld_kg_dataset/raw/master/dataset.zip)) into training, validation, and test sets, each of them is in a `.json` file.
+
+In a `.json` file, each line is a `json` dump, which is a single data point.
 
 #### Each data point consists of the following elements: 
 
