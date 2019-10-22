@@ -1,5 +1,5 @@
 # TextWorld KG Dataset
-Dataset proposed in the paper [Building Dynamic Knowledge Graphs from Text-based Games](#TODO-add-arxiv-link).
+Dataset proposed in the paper [Building Dynamic Knowledge Graphs from Text-based Games](https://arxiv.org/abs/1910.09532).
 
 ## Statistics
 | #Train  | #Valid | #Test  |  Avg. Obs.  | Avg. #Operations | #Vertices | #Edges | Avg. #Connections |
