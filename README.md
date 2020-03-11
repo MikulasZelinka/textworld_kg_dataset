@@ -1,6 +1,9 @@
 # TextWorld KG Dataset
 Dataset proposed in the paper [Building Dynamic Knowledge Graphs from Text-based Games](https://arxiv.org/abs/1910.09532).
 
+This project is part of the project of [Learning Dynamic Knowledge Graphs to Generalize on Text-based Games](https://arxiv.org/abs/2002.09127).
+Which we have released code in [another repo](https://github.com/xingdi-eric-yuan/GATA-public).
+
 ## Statistics
 | #Train  | #Valid | #Test  |  Avg. Obs.  | Avg. #Operations | #Vertices | #Edges | Avg. #Connections |
 | ---     | ---    | ---    | ---         | ---              | ---       | ---    | ---               |
